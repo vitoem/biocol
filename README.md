@@ -5,6 +5,21 @@ Backend for INECOL's BLAST tool. It takes a FASTA query (or an existing tabular 
 
 ## Requirements
 
+### Conda environment
+
+The tests were performed using the Conda environment provided in `environment.yml`.
+
+To create the environment, run:
+
+```bash
+conda env create -f environment.yml
+```
+
+Activate the environment:
+```bash
+conda activate inecol
+```
+
 - Python 3.10+
 - BLAST+ in PATH (`conda activate inecol` on Ubuntu/WSL)
 - Diamond in PATH only if you use `diamond=True`
