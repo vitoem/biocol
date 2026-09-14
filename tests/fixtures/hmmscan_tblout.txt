@@ -1,0 +1,4 @@
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+Pkinase              PF00069.25 jg63.t1              -            8.2e-26   90.9   0.0   1.1e-25   90.5   0.0   1.1   1   0   0   1   1   1   1 Protein kinase domain
+Pkinase_Tyr          PF07714.17 jg63.t1              -            1.3e-14   54.1   0.0   1.5e-14   53.9   0.0   1.1   1   0   0   1   1   1   1 Protein tyrosine kinase
+UCH                  PF00443.29 jg1696.t1            -            2.5e-42  145.2   0.0   4.8e-42  144.2   0.0   1.5   1   0   0   1   1   1   1 Ubiquitin carboxyl-terminal hydrolase

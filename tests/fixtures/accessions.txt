@@ -1,0 +1,3 @@
+XP_001	Amborella protein one
+XP_002	Vitis protein two
+XP_003	Unused accession
